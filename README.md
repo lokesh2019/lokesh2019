@@ -2,11 +2,13 @@
 _**Traveller moonlighting as a developer to fund the voyages**_
 
 ### 🔭 I’m currently working on ...
-- Senior Software Developer at Entrust Ltd
+- Produce Security Engineer at Entrust Ltd
     - All things Hardware Security Modules and Computer Security
     - Python, C, Embedded Linux platform, Device drivers...
 
 ### 🌱 I’m currently learning ...
+- Bare metal programming
+- Ethical hacking
 - Web Development at HyperionDev Bootcamp
     - Javascript, Node.js, React, CSS, HTML, ...
 - HackerOne Bug Bounty Program
@@ -21,4 +23,4 @@ _**Traveller moonlighting as a developer to fund the voyages**_
 - Instagram: https://www.instagram.com/khanahbadoshi/
 
 ### ⚡ Fun fact: ...
-- I watched IT Chapter Two movie in the cinema with Stephen Hawking. He rolled past me with his carers at the end. :)
+- I watched "IT Chapter Two" movie in the cinema with Stephen Hawking. He rolled past me with his carers at the end. :)
