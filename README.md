@@ -1,5 +1,5 @@
 ## Ahoy there! 👋
-_**Traveller moonlighting as a developer to fund the voyages**_
+_**Traveller moonlighting as an Engineer to fund the voyages**_
 
 ### 🔭 I’m currently working on ...
 - Produce Security Engineer at Entrust Ltd
